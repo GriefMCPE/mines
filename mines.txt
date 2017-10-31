@@ -1,0 +1,164 @@
+#Mines list etc for griefmcpe
+can be used for your server but give
+some support!
+(the vip mine is private)
+
+Mine A:
+WOOD : 100%
+
+Mine B:
+WOOD : 90%
+STONE : 10%
+
+Mine C:
+WOOD : 50%
+STONE : 20%
+COAL : 5%
+IRON : 2%
+
+Mine D:
+WOOD : 30%
+STONE : 30%
+COAL : 10%
+IRON : 8%
+
+Mine E:
+WOOD : 10%
+STONE : 50%
+COAL : 20%
+IRON : 25%
+GOLD : 2%
+
+Mine F:
+STONE : 60%
+COAL : 50%
+IRON : 30%
+GOLD : 7%
+
+Mine G:
+STONE : 100%
+GRANITE : 10%
+COAL : 60%
+IRON : 35%
+GOLD : 10%
+
+Mine H:
+STONE : 100%
+GRANITE : 20%
+COAL : 30%
+IRON : 40%
+GOLD : 15%
+
+Mine I:
+STONE : 100%
+SANDSTONE : 10%
+GRANITE : 35%
+COAL : 20%
+IRON : 50%
+GOLD : 30%
+
+Mine J:
+STONE : 50%
+SANDSTONE : 25%
+GRANITE : 50%
+COAL : 10%
+IRON : 80%
+GOLD : 35%
+
+Mine K:
+STONE : 10%
+SANDSTONE : 30%
+GRANITE : 60%
+IRON : 40%
+GOLD : 50%
+QUARTZ : 10%
+
+Mine L:
+SANDSTONE : 50%
+GRANITE : 30%
+IRON BLOCK: 10%
+GOLD : 80%
+QUARTZ : 50%
+LAPIZ : 5%
+
+Mine M:
+IRON BLOCK : 25%
+GOLD BLOCK : 10%
+LAPIZ : 10%
+NETHERRACT : 10%
+
+Mine N:
+IRON BLOCK : 50%
+GOLD BLOCK : 35%
+LAPIZ : 25%
+NETHERRACT : 25%
+
+Mine O:
+IRON BLOCK : 80%
+GOLD BLOCK : 50%
+LAPIZ : 45%
+NETHERRACT : 35%
+
+Mine P:
+CLAY : 10%
+GOLD BLOCK : 80%
+PURPUR BLOCK : 10%
+WOOL : 10%
+
+Mine Q:
+CLAY : 20%
+PURPUR BLOCK : 25%
+WOOL : 20%
+
+Mine R:
+CLAY : 30%
+PURPUR BLOCK : 40%
+WOOL : 30%
+DIAMOND : 1%
+BOOKSHELVES : 5%
+
+Mine S:
+CLAY : 50%
+PURPUR BLOCK : 55%
+WOOL : 45%
+DIAMOND : 5%
+BOOKSHELVES : 15%
+
+Mine T:
+CLAY : 50%
+PURPUR BLOCK : 60%
+WOOL : 50%
+DIAMOND : 10%
+BOOKSHELVES : 25%
+
+Mine U:
+CLAY : 75%
+PURPUR BLOCK : 80%
+WOOL : 80%
+DIAMOND : 15%
+BOOKSHELVES : 30%
+
+Mine V:
+DIAMOND : 25%
+BOOKSHELVES : 50%
+EMERALD : 1%
+SOULSAND : 5%
+
+Mine W:
+DIAMOND : 35%
+BOOKSHELVES : 70%
+EMERALD : 5%
+SOULSAND : 10%
+
+Mine X:
+DIAMOND : 25%
+BOOKSHELVES : 50%
+EMERALD : 10%
+SOULSAND : 30%
+OBSIDIAN : 10%
+
+Mine Z:
+DIAMOND BLOCK : 100%
+OBSIDIAN : 100%
+BEACON : 100%
+EMERALD BLOCK : 100%
